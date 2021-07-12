@@ -30,6 +30,22 @@ Unfortunately, the same tickers, also analyzed during 2017 fall in their perform
 On the other hand, the code created for running an analysis on 2017 all stocks performance was:
 https://github.com/diana-arango/stock-analysis/blob/main/Resources/CodePerformanceMeasure2017%20-All%20stocks.jpg
 
+The code for running an analysis on 2018 all stocks performance was:
+	
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/diana-arango/stock-analysis/blob/main/Resources/CodePerformanceMeasure2018%20-%20All%20stocks.jpg
+
+![image](https://user-images.githubusercontent.com/86804185/125227502-01a2f180-e2a1-11eb-89c4-64c193fcc8bc.png)
 
 
 
@@ -43,22 +59,7 @@ https://github.com/diana-arango/stock-analysis/blob/main/Resources/CodePerforman
 
 
 
-	The code for running an analysis on 2018 all stocks performance was:
-	https://github.com/diana-arango/stock-analysis/blob/main/Resources/All%20Stocks%202018%20-%20StocksAnalysis.jpg
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
 Summary
 Refactoring a script, it VBA could be a rewarding practice when the additions to the line code improves its performance and update the outcomes from our study. It reduces the time of crafting a solution for a problem or planning a new code for summing up new on a code however it becomes tricky when while refactoring the variables doesn’t accomplish their purpose. For instance, this analysis cannot demonstrate how efficient the code could be after refactoring due to a “9” error message on the statements to increase volume values for the tickers, as shown below: https://github.com/diana-arango/stock-analysis/blob/main/Resources/Error%20-%20Increase%20Volume.jpg
 
